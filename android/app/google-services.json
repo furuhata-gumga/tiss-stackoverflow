@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23176074836",
+    "project_id": "tiss-v2",
+    "storage_bucket": "tiss-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23176074836:android:6b05d651c3a6442a7cbfc1",
+        "android_client_info": {
+          "package_name": "com.gumga.tiss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23176074836-el1u45g4i8crnb146kp882tb79fnn2vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmdQ9uZpXKJ1lHjv916a6OInJvAzFpM-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23176074836-el1u45g4i8crnb146kp882tb79fnn2vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
